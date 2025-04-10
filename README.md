@@ -1,33 +1,46 @@
 # github_profile_clone
 
-🧠 Build Your Own ChatGPT using Python
-This is a simple GUI-based chatbot built with Python and OpenAI's GPT model. It takes user input through a graphical interface and returns intelligent, AI-generated responses in real-time.
+# 👤 GitHub Profile Clone
 
-🔍 Features
-Interactive chatbot powered by OpenAI (text-davinci-002)
+A sleek and functional clone of the GitHub profile interface built using **HTML**, **CSS**, and **JavaScript**. This web app fetches real-time data from the GitHub API and displays user profile details, including repositories, followers, company, location, and more — styled with GitHub’s look and feel.
 
-GUI built using tkinter
+![Preview](output.png.png)
 
-Real-time response generation
+---
 
-Easy to run and customize
+## 🚀 Features
 
-🛠️ Tech Stack
-Python
+- 🔎 Search for any GitHub username
+- 🧑‍💼 Displays user profile information (avatar, bio, company, location, etc.)
+- 📦 Lists subscribed repositories with language, stars, and fork count
+- 🎨 Fully responsive layout with GitHub-like theme
 
-tkinter
+---
 
-OpenAI API
+## 🛠️ Tech Stack
 
-📸 Demo
-Input Screen:
+- **HTML**
+- **CSS**
+- **JavaScript (Fetch API)**
+- **GitHub API**
 
-![image](https://github.com/user-attachments/assets/174f9b7a-04bd-4068-8b4e-13f231f269f1)
+---
 
+2. Open index.html in your browser
 
-Output Screen:
+That’s it! No build tools or dependencies needed.
 
-![output](https://github.com/user-attachments/assets/4859db2d-add9-4838-94b8-625eec461e49)
+---
+
+🖼️ Project Structure
+
+📁 github-profile-clone
+├── index.html
+├── style.css
+├── app.js
+├── output.png.png
+
+---
 
 
 
