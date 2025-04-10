@@ -1,5 +1,3 @@
-# github_profile_clone
-
 # 👤 GitHub Profile Clone
 
 A sleek and functional clone of the GitHub profile interface built using **HTML**, **CSS**, and **JavaScript**. This web app fetches real-time data from the GitHub API and displays user profile details, including repositories, followers, company, location, and more — styled with GitHub’s look and feel.
