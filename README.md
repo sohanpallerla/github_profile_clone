@@ -27,4 +27,7 @@ Input Screen:
 
 Output Screen:
 
-![image](https://github.com/user-attachments/assets/e42ea413-e5dd-45fd-b30d-22bd0755f108)
+![output](https://github.com/user-attachments/assets/5eef72c3-0dc8-4ace-8700-3b48e959c252)
+
+
+
